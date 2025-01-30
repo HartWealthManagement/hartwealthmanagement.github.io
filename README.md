@@ -11,7 +11,7 @@
 #### Vision
 Many professions purport to be Family Office specialists. There are however many parts to it and managing between the family and the business side can be complex. A Family Charter can sit in the middle to help pull together different functions including Distribution policy, statement of wishes, and investment strategy. With work then outsourced to the various professions.
 
-![Legal | Investment | Tax](hartwm-legal-investment-tax.png)
+![Legal | Investment | Tax](hartwm-legal-tax-investment.png)
 
 ### Task specific
 -	Development of statement of wishes
