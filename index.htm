@@ -14,13 +14,15 @@
             padding: 5px;
         }
         .tax-image {
-            max-width: 400px;
+            width: 100%;
+            max-width: 681px;
             height: auto;
             display: block;
             margin: 0 auto;
         }
         .overview-image {
-            max-width: 1000px;
+            width: 100%;
+            max-width: 1732px;
             height: auto;
         }
         .centered h4 {
@@ -29,19 +31,26 @@
         .table-container {
             display: flex;
             justify-content: space-between;
+            flex-wrap: wrap;
         }
         .table-container img, .table-container .task-specific {
             width: 48%;
         }
         @media (max-width: 768px) {
+            .table-container {
+                flex-direction: column;
+                align-items: center;
+            }
             .table-container img, .table-container .task-specific {
                 width: 100%;
             }
             .tax-image {
-                max-height: 200px;
+                max-width: 100%;
+                height: auto;
             }
             .overview-image {
-                max-width: 500px;
+                max-width: 100%;
+                height: auto;
             }
         }
     </style>
